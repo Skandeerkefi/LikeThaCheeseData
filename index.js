@@ -52,7 +52,8 @@ app.use((req, res, next) => {
 const allowedOrigins = [
 	"http://localhost:5173",
 	"https://likethacheese.vercel.app",
-	"misterteedata.railway.internal",
+	"likethacheesedata.railway.internal",
+	"https://www.likethacheese.com",
 ];
 
 app.use(
