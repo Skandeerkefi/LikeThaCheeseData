@@ -52,7 +52,7 @@ app.use((req, res, next) => {
 const allowedOrigins = [
 	"http://localhost:5173",
 	"https://likethacheese.vercel.app",
-	"likethacheesedata-production.up.railway.app",
+	"https://likethacheesedata-production.up.railway.app",
 	"https://www.likethacheese.com",
 ];
 
